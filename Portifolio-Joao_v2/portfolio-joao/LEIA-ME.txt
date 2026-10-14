@@ -1,0 +1,38 @@
+PORTFÓLIO JOÃO FERNANDO DEV
+
+Extraia a pasta inteira e abra index.html no navegador.
+Inclui sete páginas em HTML, style.css, script.js, imagens e fontes locais. Não precisa instalar nada.
+
+O contato prepara uma mensagem com nome e serviço e abre o WhatsApp de João: (19) 99986-7459. A pessoa confirma o envio no WhatsApp; não há envio automático, armazenamento de pedidos ou e-mail. A foto pessoal e os links reais dos projetos ainda não foram fornecidos.
+Para publicar, envie todos os arquivos preservando a pasta assets.
+
+ALTERAÇÕES DESTA VERSÃO
+- Especialidades e informações de atendimento ficam abaixo da assinatura João Fernando, em Sobre.
+- Projetos usa cartões em leque com setas, pontos, teclado e gesto de arrastar.
+- O modelo foi adaptado para HTML, CSS e JavaScript puro: não exige React nem instalação.
+
+COMO PERSONALIZAR OS PROJETOS
+Abra script.js e altere a lista portfolioProjects no início do arquivo:
+  title: nome do projeto
+  description: descrição curta
+  imageSrc: imagem (exemplo: assets/meu-projeto.jpg)
+  href: link completo (exemplo: https://seusite.com.br)
+  tag: categoria
+Copie suas imagens para a pasta assets. Duplique ou remova itens para mudar a quantidade.
+Os projetos 02 a 05 são demonstrativos, com a imagem original repetida. Não são trabalhos realizados.
+O botão Acessar site fica desativado até você preencher href com um endereço http:// ou https:// válido.
+Ao preencher o link, ele abre o site em uma nova aba.
+
+ARQUIVOS SEPARADOS
+HTML: index.html, sobre.html, projetos.html, servicos.html, faq.html, contato.html e orcamento.html.
+CSS: style.css.
+JavaScript: script.js.
+
+NOVIDADES
+- Orçamento: Site institucional, Landing page e Manutenção, com botões que levam ao contato com o serviço selecionado.
+- Cartões inspirados no modelo enviado, preservando o fundo e as fontes do portfólio.
+- As descrições das novas opções são sugestões editoriais; confirme os itens conforme os seus serviços reais.
+- Valores exibidos como Sob consulta; não há preços, descontos ou prazos inventados.
+- Textos pequenos ampliados em todas as páginas: descrições em 16px, notas em 14px e botões em 15px, com texto mais próximo do branco. Títulos e fundo preservados.
+- O número público do WhatsApp fica em whatsappNumber, em script.js.
+- O contato não precisa de e-mail nem texto adicional: apenas nome e serviço.
